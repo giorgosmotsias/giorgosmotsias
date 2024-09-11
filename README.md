@@ -1,9 +1,10 @@
-## Hi there 👋
+# Hi there! 👋 I'm Giorgos Motsias
 
-<!--
-**giorgosmotsias/giorgosmotsias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer with a strong passion for building innovative web applications and solving complex problems. I have expertise in JavaScript, React, Node.js, and MongoDB. I always look forward to expanding my skills and working on exciting new projects.
 
-Here are some ideas to get you started:
+- 🌍 Website: [motsias.com](https://www.motsias.com)
+- 🔗 LinkedIn: [linkedin.com/in/giorgosmotsias](https://linkedin.com/in/giorgosmotsias)
+- 📧 Email: [giorgosmotsias@outlook.com](mailto:giorgosmotsias@outlook.com)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
