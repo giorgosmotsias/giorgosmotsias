@@ -7,7 +7,7 @@ At the same time, I am interested in exploring new libraries and frameworks, con
 
 In my free time, I enjoy dancing Cretan traditional dances, playing tennis, and going to the gym.
 
-🔗 Connect with me
+## 🔗 Connect with me
 🌍 [Website](https://www.motsias.com) | 🔗 [LinkedIn](https://linkedin.com/in/giorgosmotsias) | 📧 [Email](mailto:giorgosmotsias@outlook.com)
 
 ## 🛠️ Skills & Technologies
